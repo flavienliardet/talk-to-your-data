@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1761818298417,
+      "tag": "0000_robust_madelyne_pryor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772200844244,
+      "tag": "0001_whole_deadpool",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772128000000,
+      "tag": "0002_create_usersettings",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772543777497,
+      "tag": "0003_damp_moondragon",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1772719874365,
+      "tag": "0004_complex_cassandra_nova",
+      "breakpoints": true
+    }
+  ]
+}
