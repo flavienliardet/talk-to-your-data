@@ -49,7 +49,7 @@ Both are in one repo so you can see the full flow.
 - **`langgraph-multiagent-genie-multi-requetes.ipynb`** – Agent definition, MLflow wrap, deployment.
 - **`client/`** – React chat UI (messages, input, persona/mode selectors, streaming).
 - **`server/`** – Express API; **`routes/chat.ts`** calls the agent endpoint and streams back.
-- **`graph_schema.png`** – Visualization of the multi-agent graph (version without RAG agent)
+- **`graph_visualization.png`** – Visualization of the multi-agent graph (version without RAG agent)
 
 --- 
 
